@@ -1,5 +1,5 @@
-# Car Management Program for Rental Service -- tbc
-This program was made as a requirement for completing Module 1 of Purwadhika JCDS Course.
+# Car Management Program for Rental Service
+This program was made as a requirement for completing Module 1 of Purwadhika JCDS Course. To use the program, please head to the last line of this readme file.
 
 ## Suggested Stakeholders
 This program works best for small-to-medium enterprises, which in car rental industry. The users would be admins, who need to manage the firm's car management data (rental data not included).
@@ -24,7 +24,15 @@ If a car suddenly could not be used for rental anymore, you can delete that car'
 
 ## Flowchart
 Below listed the flowchart describing this program main features:
-!['menu']([Program Flow/Z - Menu.png](https://github.com/yus47/Car-Management-Program-for-Rental-Service/blob/main/Program%20Flow/Z%20-%20Menu.png?raw=true)
+
+![image](https://github.com/yus47/Car-Management-Program-for-Rental-Service/assets/167540667/c1e7873e-dc98-432f-b2b7-f090fa201b7d)
+![image](https://github.com/yus47/Car-Management-Program-for-Rental-Service/assets/167540667/e38cea45-b081-422f-be02-fc62eada7f72)
+![image](https://github.com/yus47/Car-Management-Program-for-Rental-Service/assets/167540667/e241247c-3412-44f6-a201-8cd54f273eee)
+![image](https://github.com/yus47/Car-Management-Program-for-Rental-Service/assets/167540667/574ca626-14a1-45e1-9da0-f03484e6e74c)
+![image](https://github.com/yus47/Car-Management-Program-for-Rental-Service/assets/167540667/a7d7debf-2642-44bc-a192-5989085b31dc)
+![image](https://github.com/yus47/Car-Management-Program-for-Rental-Service/assets/167540667/c45305ba-ebba-4b77-9715-1f744ab0123a)
+![image](https://github.com/yus47/Car-Management-Program-for-Rental-Service/assets/167540667/0d516520-098b-4ec3-a40f-93bef3645898)
+![image](https://github.com/yus47/Car-Management-Program-for-Rental-Service/assets/167540667/ac857f46-64ae-43fb-9144-d4d15949b929)
 
 ## Limitations
 As this program is the simplest program I can made, it of course has a few limitations, including language and not including rental features. There might be some errors too that I missed during the tests and debugging sessions, so please kindly notify me if there is any. Also, for anyone reading this, feel free to use and develop this program.
