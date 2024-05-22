@@ -22,7 +22,11 @@ You can also update any simple information of the car, from plate number, rental
 ### Delete Car Information
 If a car suddenly could not be used for rental anymore, you can delete that car's information and the program can generate a new simple table to help you make a report to your supervisor.
 
-## Limitations
-As this program is the simplest program I can made, it of course has a few limitations, including language and not including rental features. For anyone reading this, feel free to use and develop this program.
+## Flowchart
+Below listed the flowchart describing this program main features:
+!['menu']([Program Flow/Z - Menu.png](https://github.com/yus47/Car-Management-Program-for-Rental-Service/blob/main/Program%20Flow/Z%20-%20Menu.png?raw=true)
 
-Thank you for visiting this repo and reading this readme file! To use this program, download all files, input "!pip install tabulate" in the command prompt, and run the run.py program from that same command prompt!
+## Limitations
+As this program is the simplest program I can made, it of course has a few limitations, including language and not including rental features. There might be some errors too that I missed during the tests and debugging sessions, so please kindly notify me if there is any. Also, for anyone reading this, feel free to use and develop this program.
+
+Thank you for visiting this repo and reading this readme file! To use this program, download all files, input "!pip install tabulate" in the command prompt, and run the run.py program from that same command prompt.
